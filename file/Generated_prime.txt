@@ -1,0 +1,13 @@
+<html>
+<head>
+</head>
+<body>
+<u><h1>  This is a table  </h1> </u>
+
+<table style="border:5px">
+<tr> <th> Name</th> <th> Address</th> <th> Phone </th> </tr>
+<tr> <td> Aakash </td> <td> Dhaka, Bangladesh. </td><td> 01683151988 </td>
+</table>
+
+</body>
+</html>
